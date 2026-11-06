@@ -2,7 +2,7 @@
 # EffoiCare 🇪🇹
 
 > **Empowering Ethiopian mothers and caregivers of children with autism and developmental delays through an offline-first, culturally resonant digital support platform.**
-## 📌 Project Overview
+## Project Overview
 In Addis Ababa and urban centers across Ethiopia, families raising children with autism and developmental delays face an acute shortage of accessible clinical and therapeutic support infrastructure. Mothers bear the immense burden of unassisted, 24/7 caregiving, leading to chronic stress, social isolation, and economic inactivity. 
 
 **EffoiCare** is an offline-first digital solution designed to bridge the vast divide between formal healthcare facilities and daily household care. By equipping caregivers with actionable, evidence-based daily strategies, our platform reduces developmental regression in children, lowers caregiver burnout, and paves the way for mothers to reclaim their time and return to economic activity.
@@ -21,5 +21,5 @@ In Addis Ababa and urban centers across Ethiopia, families raising children with
 * Planned scaling pathways integrating with public health and local clinical partners in Addis Ababa.
 ## Open Source License
 This project is open-source and licensed under the **[MIT License](LICENSE)** (or substitute your chosen open-source license), complying with open-source funding guidelines for social impact ventures.
-## 📬 Contact & Support
-For inquiries, collaborations, or pilot feedback, please reach out via our GitHub repository or
+##  Contact & Support
+For inquiries, collaborations, or pilot feedback, please reach out via our GitHub repository.
